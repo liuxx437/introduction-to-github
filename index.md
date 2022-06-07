@@ -1,2 +1,2 @@
-# this is h1 header
-### <H3> header
+# Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
